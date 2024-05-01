@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Amit Patel",
+      "image":"https://i.ibb.co/K991gzq/male-lawyers-14.jpg",
+      "age": 50,
+      "AttorneyVerificationStatus":"Verified",
+      "description": "Passed out in 2005. Practicing since 2009.",
+      "type": "Intellectual Property",
+      "courtOfPractice": "IP Court, Delhi",
+      "casesFought": 55,
+      "casesWon": 50,
+      "yearsInPractising": 17,
+      "email": "amit.patel@nyaysaarthi.com"
+    },
+    {
+      "id": 2,
+      "name": "Preeti Verma",
+      "image":"https://i.ibb.co/1XvtQym/female-lawyers-3.jpg",
+      "age": 36,
+      "AttorneyVerificationStatus":"Verified",
+      "description": "Passed out in 2008. Practicing since 2012.",
+      "type": "Intellectual Property",
+      "courtOfPractice": "IP Court, Mumbai",
+      "casesFought": 40,
+      "casesWon": 35,
+      "yearsInPractising": 10,
+      "email": "preeti.verma@nyaysaarthi.com"
+    },
+    {
+      "id": 3,
+      "name": "Rajesh Singh",
+      "image":"https://i.ibb.co/m6NPtsY/male-lawyers-36.jpg",
+      "age": 40,
+      "AttorneyVerificationStatus":"Verified",
+      "description": "Passed out in 2004. Practicing since 2007.",
+      "type": "Intellectual Property",
+      "courtOfPractice": "IP Court, Kolkata",
+      "casesFought": 50,
+      "casesWon": 45,
+      "yearsInPractising": 16,
+      "email": "rajesh.singh@nyaysaarthi.com"
+    }
+  ]
+  

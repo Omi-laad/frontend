@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Aakash Verma",
+      "image":"https://i.ibb.co/YhjpcHB/male-lawyers-1.jpg",
+      "age": 42,
+      "AttorneyVerificationStatus":"Verified",
+      "description": "Passed out in 2002. Practicing since 2005.",
+      "type": "Family",
+      "courtOfPractice": "Family Court, Delhi",
+      "casesFought": 60,
+      "casesWon": 50,
+      "yearsInPractising": 20,
+      "email": "aakash.verma@nyaysaarthi.com"
+    },
+    {
+      "id": 2,
+      "name": "Neha Kapoor",
+      "image":"https://i.ibb.co/TKWYZH1/female-lawyers-19.jpg",
+      "age": 35,
+      "AttorneyVerificationStatus":"Verified",
+      "description": "Passed out in 2009. Practicing since 2013.",
+      "type": "Family",
+      "courtOfPractice": "Family Court, Mumbai",
+      "casesFought": 40,
+      "casesWon": 35,
+      "yearsInPractising": 9,
+      "email": "neha.kapoor@nyaysaarthi.com"
+    },
+    {
+      "id": 3,
+      "name": "Vikrant Singh",
+      "image":"https://i.ibb.co/NZnzgxJ/male-lawyers-5.jpg",
+      "age": 39,
+      "AttorneyVerificationStatus":"Not Verified",
+      "description": "Passed out in 2005. Practicing since 2008.",
+      "type": "Family",
+      "courtOfPractice": "Family Court, Kolkata",
+      "casesFought": 55,
+      "casesWon": 45,
+      "yearsInPractising": 16,
+      "email": "vikrant.singh@nyaysaarthi.com"
+    }
+  ]
+  

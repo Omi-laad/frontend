@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "name": "Aditya Gupta",
+      "age": 42,
+      "AttorneyVerificationStatus":"Not Verified",
+      "image":"https://i.ibb.co/w7BMg8B/femalelawyer1.jpg",
+      "description": "Passed out in 2002. Practicing since 2005.",
+      "type": "Civil",
+      "courtOfPractice": "District Court, Delhi",
+      "casesFought": 60,
+      "casesWon": 50,
+      "yearsInPractising": 20,
+      "email": "omkarlaad98@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Sneha Kapoor",
+      "image":"https://i.ibb.co/BVWJSTZ/female-lawyers-25.jpg",
+      "age": 35,
+      "AttorneyVerificationStatus":"Verified",
+      "description": "Passed out in 2009. Practicing since 2013.",
+      "type": "Civil",
+      "courtOfPractice": "District Court, Mumbai",
+      "casesFought": 40,
+      "casesWon": 35,
+      "yearsInPractising": 9,
+      "email": "sneha.kapoor@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Rajat Singh",
+      "image":"https://i.ibb.co/tqTLK7b/male-lawyers-38.jpg",
+      "age": 39,
+      "AttorneyVerificationStatus":"Verified",
+      "description": "Passed out in 2005. Practicing since 2008.",
+      "type": "Civil",
+      "courtOfPractice": "District Court, Kolkata",
+      "casesFought": 55,
+      "casesWon": 45,
+      "yearsInPractising": 16,
+      "email": "rajat.singh@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Vikram Sharma",
+      "age": 36,
+      "AttorneyVerificationStatus":"Verified",
+      "description": "Completed LLB in 2009. Practicing since 2011.",
+      "type": "Civil",
+      "courtOfPractice": "High Court, Delhi",
+      "casesFought": 60,
+      "casesWon": 50,
+      "yearsInPractising": 10,
+      "email": "vikram.sharma@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Alok Verma",
+      "age": 41,
+      "AttorneyVerificationStatus":"Verified",
+      "description": "Admitted to the bar in 2004. Practicing since 2006.",
+      "type": "Civil",
+      "courtOfPractice": "District Court, Mumbai",
+      "casesFought": 70,
+      "casesWon": 55,
+      "yearsInPractising": 15,
+      "email": "alok.verma@nyaysaarthi.com"
+    },
+    {
+      "id": 6,
+      "name": "Meera Singhania",
+      "age": 38,
+      "AttorneyVerificationStatus":"Verified",
+      "description": "Passed out in 2006. Practicing since 2009.",
+      "type": "Civil",
+      "courtOfPractice": "Family Court, Chennai",
+      "casesFought": 65,
+      "casesWon": 52,
+      "yearsInPractising": 13,
+      "email": "meera.singhania@nyaysaarthi.com"
+    },
+    {
+      "id": 7,
+      "name": "Suresh Mishra",
+      "age": 37,
+      "AttorneyVerificationStatus":"Verified",
+      "description": "Graduated in 2010. Practicing since 2013.",
+      "type": "Civil",
+      "courtOfPractice": "District Court, Bangalore",
+      "casesFought": 50,
+      "casesWon": 40,
+      "yearsInPractising": 11,
+      "email": "suresh.mishra@nyaysaarthi.com"
+    },
+    {
+      "id": 8,
+      "name": "Priya Sharma",
+      "age": 34,
+      "AttorneyVerificationStatus":"Verified",
+      "description": "Obtained LLB degree in 2008. Practicing since 2010.",
+      "type": "Civil",
+      "courtOfPractice": "High Court, Kolkata",
+      "casesFought": 48,
+      "casesWon": 42,
+      "yearsInPractising": 11,
+      "email": "priya.sharma@nyaysaarthi.com"
+    }
+    
+  ]
+  

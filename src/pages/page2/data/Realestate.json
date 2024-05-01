@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Neha Sharma",
+      "age": 41,
+      "description": "Passed out in 2003. Practicing since 2006.",
+      "type": "Real Estate",
+      "courtOfPractice": "Real Estate Court, Delhi",
+      "casesFought": 60,
+      "casesWon": 55,
+      "yearsInPractising": 18,
+      "email": "neha.sharma@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Rohit Gupta",
+      "age": 38,
+      "description": "Passed out in 2006. Practicing since 2010.",
+      "type": "Real Estate",
+      "courtOfPractice": "Real Estate Court, Mumbai",
+      "casesFought": 45,
+      "casesWon": 40,
+      "yearsInPractising": 12,
+      "email": "rohit.gupta@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Priya Singh",
+      "age": 43,
+      "description": "Passed out in 2001. Practicing since 2005.",
+      "type": "Real Estate",
+      "courtOfPractice": "Real Estate Court, Kolkata",
+      "casesFought": 55,
+      "casesWon": 50,
+      "yearsInPractising": 20,
+      "email": "priya.singh@example.com"
+    }
+  ]
+  

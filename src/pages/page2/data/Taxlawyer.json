@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Rajeev Kumar",
+      "age": 44,
+      "description": "Passed out in 2000. Practicing since 2005.",
+      "type": "Tax",
+      "courtOfPractice": "Tax Court, Delhi",
+      "casesFought": 60,
+      "casesWon": 55,
+      "yearsInPractising": 19,
+      "email": "rajeev.kumar@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "age": 37,
+      "description": "Passed out in 2007. Practicing since 2011.",
+      "type": "Tax",
+      "courtOfPractice": "Tax Court, Mumbai",
+      "casesFought": 45,
+      "casesWon": 40,
+      "yearsInPractising": 13,
+      "email": "priya.sharma@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Vishal Gupta",
+      "age": 42,
+      "description": "Passed out in 2002. Practicing since 2006.",
+      "type": "Tax",
+      "courtOfPractice": "Tax Court, Kolkata",
+      "casesFought": 55,
+      "casesWon": 50,
+      "yearsInPractising": 19,
+      "email": "vishal.gupta@example.com"
+    }
+  ]
+  
